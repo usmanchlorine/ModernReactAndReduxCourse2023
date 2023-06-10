@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "body": "{\"title\":\"harry potter\"}",
+      "id": 1
+    },
+    {
+      "body": "{\"title\":\"tikka\"}",
+      "id": 6
+    }
+  ]
+}
