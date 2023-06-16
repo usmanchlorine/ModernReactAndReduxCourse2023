@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "Myra" },
+    { "id": 2, "name": "Usman" },
+    { "id": 3, "name": "Sufyan" }
+  ],
+  "albums": [],
+  "photos": []
+}
