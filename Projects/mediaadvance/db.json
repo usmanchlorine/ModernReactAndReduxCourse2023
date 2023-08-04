@@ -1,8 +1,41 @@
 {
   "users": [
-    { "id": 1, "name": "Myra" },
-    { "id": 2, "name": "Usman" },
-    { "id": 3, "name": "Sufyan" }
+    {
+      "name": "Russell Brakus",
+      "id": 1
+    },
+    {
+      "name": "Mr. Nick Glover",
+      "id": 2
+    },
+    {
+      "name": "Kari Russel",
+      "id": 3
+    },
+    {
+      "name": "Stewart Kling",
+      "id": 4
+    },
+    {
+      "name": "Evan Rohan",
+      "id": 5
+    },
+    {
+      "name": "Mr. Mitchell Wiza",
+      "id": 6
+    },
+    {
+      "name": "Edmond Daniel",
+      "id": 7
+    },
+    {
+      "name": "Clayton Hodkiewicz V",
+      "id": 8
+    },
+    {
+      "name": "Deanna Prosacco",
+      "id": 9
+    }
   ],
   "albums": [],
   "photos": []

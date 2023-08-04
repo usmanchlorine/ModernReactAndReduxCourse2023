@@ -19,5 +19,5 @@ const pause = (Duration) => {
     })
 
 }
-
+export { pause }
 export { fetchUser }
